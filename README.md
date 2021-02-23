@@ -1,4 +1,4 @@
-# SI_proj
+# Implementacja wizualizacji grafu obrazującego podobieństwo pomiędzy dokumentami
 
 Projekt na przedmiot Sztuczna Inteligencja.
 
