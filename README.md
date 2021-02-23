@@ -1,6 +1,6 @@
 # Implementacja wizualizacji grafu obrazującego podobieństwo pomiędzy dokumentami
 
-Projekt na przedmiot Sztuczna Inteligencja.
+Projekt wykonany na przedmiot Sztuczna Inteligencja.
 
 Kod pisany w Python (>=3.7).
 
